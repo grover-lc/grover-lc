@@ -1,3 +1,1 @@
-# About me
-
 Just getting started with programming...
